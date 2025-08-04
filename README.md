@@ -3,6 +3,9 @@
 ## 🧩 One-line Summary
 A real-time community-powered platform where people can **get or offer help in emergencies**, **find local job gigs**, and **report threats or injustice** — all in one place.
 
+🚧 **Project Status: In Progress**  
+*This project is currently under active development. Some features may not be functional yet. Stay tuned for regular updates and feel free to contribute or give suggestions!*
+
 ---
 
 ## 🎯 Core Purpose
