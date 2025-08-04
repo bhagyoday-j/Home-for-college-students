@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: url("../images/photo.jpg") no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.signup-body,
+.contact-body {
+  background: linear-gradient(to right, #00000088, #00000088), url("../images/photo.jpg") no-repeat center center/cover;
+}
+
+.form-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+}
+
+.form-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form-container input,
+.form-container textarea {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+}
+
+.form-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #008CBA;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-container button:hover {
+  background-color: #005f79;
+}
+
+.developer-info {
+  margin-top: 25px;
+  font-size: 14px;
+  color: #444;
+}
+
+.footer-link {
+  margin-top: 20px;
+  font-size: 14px;
+}
+.footer-link a {
+  color: #0066cc;
+  text-decoration: none;
+}
+.footer-link a:hover {
+  text-decoration: underline;
+}
